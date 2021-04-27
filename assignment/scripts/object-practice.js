@@ -54,3 +54,8 @@ console.log('new shoe count:', me.shoeCount);
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+
+me.favoriteColor = 'blue'; //why does this work if me is declared as a const?
+
+console.log(me);
+console.log(me.favoriteColor);
