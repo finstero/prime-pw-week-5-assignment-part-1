@@ -14,7 +14,7 @@ const me = {
   hasSiblings: 1,
   shoeCount: 14,
   favThreeFoods: ['coffee', 'bagels', 'Victor\'s Cafe brunch']
-};
+}
 console.log('A little about me:', me);
 
 /* 2. Accessing object properties.
